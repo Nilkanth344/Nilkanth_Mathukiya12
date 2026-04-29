@@ -1,2 +1,24 @@
-# Nilkanth_Mathukiya12
-It includes work on Python programming, data analysis, and machine learning concepts. I am using libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn. The projects focus on real-world datasets and problem-solving techniques. This repository reflects my progress and hands-on experience in data science.
+# 📊 Nilkanth Mathukiya — Data Science Projects
+
+This repository contains hands-on Data Science and Machine Learning projects using Python.
+
+## 🛠️ Libraries Used
+- NumPy, Pandas
+- Matplotlib, Seaborn
+- Scikit-learn
+
+## 📁 Projects
+
+| Project | Description |
+|---|---|
+| Airtel Classification | Telecom customer classification |
+| Customer Segmentation | Clustering customers by behavior |
+| Employee Salary Prediction | Predicting salary using regression |
+| Heart Disease Detection | Predicting heart disease risk |
+| Loan Approval System | Classifying loan approval |
+| Medical Cost Insurance | Predicting insurance charges |
+| Sentiment Analysis | NLP-based sentiment classification |
+
+## 👤 Author
+**Nilkanth Mathukiya**  
+Aspiring Data Scientist | Python | ML | Data Analysis
